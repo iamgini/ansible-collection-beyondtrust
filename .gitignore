@@ -1,0 +1,7 @@
+*.tar.gz
+test/results
+temp-data/
+roles/geerlingguy.*
+wp-demosite.yaml
+wp-demosite-uc-db.yaml
+wp-demosite-upcloud.yaml
